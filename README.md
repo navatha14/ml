@@ -1,14 +1,6 @@
 
 MACHINE LEARNING LAB
 
-
-
-WEEK 1 tO 9
-
-NAME :- B.Navatha
-ID NO:- B201344
-ROLL NO:-54
-CLASS:-C2
 ## LABS
 
 week1 & week2 --basics
